@@ -2943,6 +2943,45 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
+							<Value>MOVEMENT_HINT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>MOVEMENT_HINT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>ZOOM_IN_OUT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>ZOOM_IN_OUT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>REEMPTION_HINT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>REEMPTION_HINT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
 							<Value>OP_01_01_MESSAGE_ANNIHILATION</Value>
 						</State>
 					</StateList>
