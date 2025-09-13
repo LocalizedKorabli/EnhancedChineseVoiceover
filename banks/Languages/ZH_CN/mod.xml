@@ -1610,12 +1610,25 @@
 					<StateList>
 						<State>
 							<Name>VO_Prompt_ID</Name>
+							<Value>VO_Prompt_ID_02</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>VO_Prompt_ID_02.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>VO_Prompt_ID</Name>
 							<Value>VO_Prompt_ID_03</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Access_Level_1.wem</Name>
+							<Name>VO_Prompt_ID_03.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -1628,7 +1641,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Access_Level_2.wem</Name>
+							<Name>VO_Prompt_ID_04.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -1641,7 +1654,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Access_Level_3.wem</Name>
+							<Name>VO_Prompt_ID_05.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -1927,7 +1940,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_1_Demo.wem</Name>
+							<Name>VO_Prompt_ID_01.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -1940,7 +1953,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_2.wem</Name>
+							<Name>VO_Prompt_ID_33.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -1953,7 +1966,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_3.wem</Name>
+							<Name>VO_Prompt_ID_34.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -1979,7 +1992,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_5.wem</Name>
+							<Name>VO_Prompt_ID_36.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -1992,7 +2005,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_6.wem</Name>
+							<Name>VO_Prompt_ID_37.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2005,7 +2018,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_7.wem</Name>
+							<Name>VO_Prompt_ID_38.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2018,7 +2031,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_8.wem</Name>
+							<Name>VO_Prompt_ID_39.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2031,7 +2044,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_9.wem</Name>
+							<Name>VO_Prompt_ID_40.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2044,7 +2057,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_10.wem</Name>
+							<Name>VO_Prompt_ID_41.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2057,7 +2070,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_11.wem</Name>
+							<Name>VO_Prompt_ID_42.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2070,7 +2083,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_12.wem</Name>
+							<Name>VO_Prompt_ID_45.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2083,7 +2096,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_13.wem</Name>
+							<Name>VO_Prompt_ID_43.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2096,7 +2109,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_14.wem</Name>
+							<Name>VO_Prompt_ID_44.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2109,7 +2122,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>Zh_Speech_Tutorial_15.wem</Name>
+							<Name>VO_Prompt_ID_46.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2122,7 +2135,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>TISHINA.wem</Name>
+							<Name>VO_Prompt_ID_47.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2135,7 +2148,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>TISHINA.wem</Name>
+							<Name>VO_Prompt_ID_48.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -2148,7 +2161,7 @@
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>TISHINA.wem</Name>
+							<Name>VO_Prompt_ID_51.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -3420,6 +3433,7 @@
 						</File>
 					</FilesList>
 				</Path>
+				
 				<Path>
 					<StateList>
 						<State>
@@ -6394,6 +6408,240 @@
 					<FilesList>
 						<File>
 							<Name>OP_10_CSM_014_HINT_MORNING.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_1</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_1.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_2</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_2.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_3</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_3.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_4</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_4.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_5</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_5.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_6</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_6.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_7</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_7.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_8</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_8.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_9</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_9.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_10</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_10.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_11</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_11.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_12</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_12.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_13</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_13.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_14</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_14.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_15</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_15.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_16</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_16.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_17</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_17.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>HOUNDS_LEADER_18</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_HOUNDS_LEADER_18.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
